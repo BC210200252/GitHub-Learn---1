@@ -1,0 +1,14 @@
+This is the first file, to get you know how to create a File using GitHub Web UI.
+
+1)  First Create a new Repository by clicking on the "+" sign at the Top Right Corner of the Website.
+2)  Then Name your repo, also specify public or private access as you wish.
+3)  Now, after you have done creating your repository.
+
+4)  Click on the "Add File Button", and click on the "Create new file".
+
+5)  Then name your file with the desired extension you want, like "file.txt".
+6)  If you want to craete subfolders use Subfolder sign "/" in the name section of your file, like "First/createFile.txt".
+
+
+7)  Then, enter some body text in the file.
+8)  At last, clikc on the "Commit changes" button, to see the files updation in your repository.
